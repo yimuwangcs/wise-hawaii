@@ -31,7 +31,7 @@
 
 ## 🔥 News
 
-- **[TODO]** The code will be released in December.
+- **[TODO]** The code will be released in December. We plan to release HAWAII (Qwen2.5-VL) first.
 - **[Nov 2025]** Our paper has been accepted by **NeurIPS 2025**! 🎉
 - **[Jun 2025]** Our paper is now available on [arXiv](https://arxiv.org/abs/2506.19072)!
 
