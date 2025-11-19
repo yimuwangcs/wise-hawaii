@@ -1,4 +1,4 @@
-<h1 align="center">[NeurIPS 2025] HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models</h1>
+<h1 align="center">[NeurIPS 2025] 🌴 HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models</h1>
 
 <p align="center">
   <strong>NeurIPS 2025</strong>
