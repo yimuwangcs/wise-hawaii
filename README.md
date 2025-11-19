@@ -13,6 +13,9 @@
 </p>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2506.19072">
+    <img src="https://img.shields.io/badge/arXiv-2506.19072-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
   <a href="https://openreview.net/forum?id=LIGBnhb83e">
     <img src="https://img.shields.io/badge/Paper-OpenReview-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
   </a>
