@@ -1,8 +1,12 @@
-# HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models
+<h1 align="center">HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models</h1>
 
-**Yimu Wang, Mozhgan Nasr Azadani, Sean Sedwards, Krzysztof Czarnecki**
+<p align="center">
+  <strong>Yimu Wang, Mozhgan Nasr Azadani, Sean Sedwards, Krzysztof Czarnecki</strong>
+</p>
 
-*University of Waterloo*
+<p align="center">
+  <em>University of Waterloo</em>
+</p>
 
 <p align="center">
   <a href="https://openreview.net/forum?id=LIGBnhb83e">
@@ -15,6 +19,14 @@
     <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a> -->
 </p>
+
+---
+
+## 🔥 News
+
+- **[TODO]** The code will be released in December.
+- **[Nov 2025]** Our paper has been accepted by **NeurIPS 2025**! 🎉
+- **[Jun 2025]** Our paper is now available on [arXiv](https://arxiv.org/abs/2506.19072)!
 
 ---
 
